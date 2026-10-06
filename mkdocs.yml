@@ -20,7 +20,7 @@ theme:
         name: 切换至深色模式
     - scheme: slate
       media: "(prefers-color-scheme: dark)"
-      primary: blue
+      primary: green
       accent: blue
       toggle:
         icon: material/weather-sunny
