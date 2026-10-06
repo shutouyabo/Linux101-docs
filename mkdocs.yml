@@ -1,7 +1,7 @@
 site_name: 高性价比人生指南
 site_description: Linux 101 课程讲义
 site_author: LUG@USTC
-site_url: https://101.lug.ustc.edu.cn/
+site_url: https://rensheng2.zhihu.blog/
 repo_name: ustclug/Linux101-docs
 repo_url: https://github.com/ustclug/Linux101-docs
 copyright: Brought to you by <a href="https://lug.ustc.edu.cn/">LUG@USTC</a>. Available freely under the <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0 license</a>.
@@ -85,6 +85,7 @@ nav:
         - Ch01/index.md
         - 拓展阅读: Ch01/supplement.md
         - 思考题解答: Ch01/solution.md
+        - 01-不要早死: Ch01/01-不要早死.md        
     - 二：个性化配置与建站体验:
         - Ch02/index.md
         - 拓展阅读: Ch02/supplement.md
