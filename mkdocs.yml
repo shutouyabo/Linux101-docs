@@ -74,6 +74,7 @@ extra_css:
   - 'https://101.lug.ustc.edu.cn/_extra/roboto-mono/stylesheet.css'
 
 nav:
+    - 01-不要早死: Ch01/01-不要早死.md
     - 负一：计划规格:
         - 章节编写指导: Spec/writing.md
         - 演示文稿规格: Spec/slide.md
@@ -84,8 +85,7 @@ nav:
     - 一：初识 Linux:
         - Ch01/index.md
         - 拓展阅读: Ch01/supplement.md
-        - 思考题解答: Ch01/solution.md
-        - 01-不要早死: Ch01/01-不要早死.md        
+        - 思考题解答: Ch01/solution.md        
     - 二：个性化配置与建站体验:
         - Ch02/index.md
         - 拓展阅读: Ch02/supplement.md
