@@ -1,10 +1,10 @@
 site_name: 高性价比人生指南
-site_description: Linux 101 课程讲义
-site_author: LUG@USTC
-site_url: https://rensheng2.zhihu.blog/
-repo_name: ustclug/Linux101-docs
-repo_url: https://github.com/ustclug/Linux101-docs
-copyright: Brought to you by <a href="https://lug.ustc.edu.cn/">LUG@USTC</a>. Available freely under the <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0 license</a>.
+site_description: 高性价比人生指南
+site_author: shutouyabo
+site_url: https://rensheng.zhihu.blog/
+repo_name: 高性价比人生指南
+repo_url: https://github.com/shutouyabo/gaoxingjiabirenshengzhinan
+copyright: Copyright &copy; 2026 <a href="https://rensheng.zhihu.blog/" target="_blank" rel="noopener noreferrer">高性价比人生指南</a>
 
 theme:
   name: 'material'
@@ -61,9 +61,9 @@ markdown_extensions:
 extra:
   social:
     - icon: octicons/globe-16
-      link: https://lug.ustc.edu.cn/
+      link: https://v6.51.la/land/LLAxEC8pfvLRyqQZ
     - icon: octicons/mark-github-16
-      link: https://github.com/ustclug
+      link: https://github.com/shutouyabo
   analytics:
     provider: google
     property: G-Q8WSZQS8E1
